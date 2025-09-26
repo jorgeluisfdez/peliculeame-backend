@@ -7,5 +7,6 @@
 Una app de para Películas y series
 
 
-## Developers
+## Collaborate
 - ing. Jorge Luis Fernandez
+- ing. Eddy Rodriguez
